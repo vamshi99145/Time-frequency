@@ -1,4 +1,4 @@
-# Time-frequency
+# A Time Frequency Based Suspicious Activity Detection for Anti-Money Laundering
 ![Screenshot (945)](https://user-images.githubusercontent.com/77665988/229989305-99f0f864-dfe6-4eb7-81f3-90f4a6ef52ff.png)
 ![Screenshot (946)](https://user-images.githubusercontent.com/77665988/229989317-76428cfa-7988-4995-85b1-dd0066596b5b.png)
 ![Screenshot (947)](https://user-images.githubusercontent.com/77665988/229989329-ab6d6577-db80-428d-a390-383ff28ba9ba.png)
